@@ -1,2 +1,0 @@
-# DemoRepo
-echo 'Hello world'
